@@ -1,0 +1,14 @@
+Escuela de Arte Multimedial Da Vinci
+CARRERA: Diseño y Programación Web
+MATERIA: Interacción con Dispositivos Móviles
+TRABAJO PRÁCTICO: Examen Parcial 2
+PROFESOR: D’Addezio Alejandro
+ALUMNO: Dario Vazzano
+CUATRIMESTRE: 2do Cuatrimestre
+COMISIÓN: BV
+TURNO: Tarde
+FECHA DE ENTREGA: 29/11/2022
+
+URL DEL SITIO: https://primerparcial-idm2022.000webhostapp.com/ (Este servidor aceptaba php)
+
+               https://stellular-moxie-77a2f5.netlify.app/
